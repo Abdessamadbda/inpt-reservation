@@ -1,0 +1,19 @@
+{
+  "terrains": [
+    {
+      "name": "Terrain de football",
+      "thumbnail": "https://images.unsplash.com/photo-1632300951015-42d7df909581?q=80&w=1625&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Terrain de basketball",
+      "thumbnail": "https://images.unsplash.com/photo-1559692048-79a3f837883d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Terrain de volleyball",
+      "thumbnail": "https://images.unsplash.com/photo-1584692618238-72820dbd5c60?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Salle de jeux",
+      "thumbnail": "https://images.unsplash.com/photo-1534463868211-1203a5c900a9?q=80&w=1506&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+    }
